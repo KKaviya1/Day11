@@ -1,0 +1,8 @@
+F:\Day -11\selectionsort\selectionsort\bin\Debug\selectionsort.exe.config
+F:\Day -11\selectionsort\selectionsort\bin\Debug\selectionsort.exe
+F:\Day -11\selectionsort\selectionsort\bin\Debug\selectionsort.pdb
+F:\Day -11\selectionsort\selectionsort\obj\Debug\selectionsort.csproj.AssemblyReference.cache
+F:\Day -11\selectionsort\selectionsort\obj\Debug\selectionsort.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\selectionsort\selectionsort\obj\Debug\selectionsort.csproj.CoreCompileInputs.cache
+F:\Day -11\selectionsort\selectionsort\obj\Debug\selectionsort.exe
+F:\Day -11\selectionsort\selectionsort\obj\Debug\selectionsort.pdb

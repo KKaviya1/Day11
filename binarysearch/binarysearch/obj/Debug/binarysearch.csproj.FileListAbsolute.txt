@@ -1,0 +1,8 @@
+F:\Day -11\binarysearch\binarysearch\bin\Debug\binarysearch.exe.config
+F:\Day -11\binarysearch\binarysearch\bin\Debug\binarysearch.exe
+F:\Day -11\binarysearch\binarysearch\bin\Debug\binarysearch.pdb
+F:\Day -11\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.AssemblyReference.cache
+F:\Day -11\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\binarysearch\binarysearch\obj\Debug\binarysearch.csproj.CoreCompileInputs.cache
+F:\Day -11\binarysearch\binarysearch\obj\Debug\binarysearch.exe
+F:\Day -11\binarysearch\binarysearch\obj\Debug\binarysearch.pdb

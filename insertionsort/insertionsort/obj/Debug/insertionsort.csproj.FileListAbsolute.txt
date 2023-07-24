@@ -1,0 +1,8 @@
+F:\Day -11\insertionsort\insertionsort\bin\Debug\insertionsort.exe.config
+F:\Day -11\insertionsort\insertionsort\bin\Debug\insertionsort.exe
+F:\Day -11\insertionsort\insertionsort\bin\Debug\insertionsort.pdb
+F:\Day -11\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.AssemblyReference.cache
+F:\Day -11\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\insertionsort\insertionsort\obj\Debug\insertionsort.csproj.CoreCompileInputs.cache
+F:\Day -11\insertionsort\insertionsort\obj\Debug\insertionsort.exe
+F:\Day -11\insertionsort\insertionsort\obj\Debug\insertionsort.pdb

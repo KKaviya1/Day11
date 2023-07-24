@@ -1,0 +1,8 @@
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\bin\Debug\linkedlistcompleteEx.exe.config
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\bin\Debug\linkedlistcompleteEx.exe
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\bin\Debug\linkedlistcompleteEx.pdb
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\obj\Debug\linkedlistcompleteEx.csproj.AssemblyReference.cache
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\obj\Debug\linkedlistcompleteEx.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\obj\Debug\linkedlistcompleteEx.csproj.CoreCompileInputs.cache
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\obj\Debug\linkedlistcompleteEx.exe
+F:\Day -11\linkedlistcompleteEx\linkedlistcompleteEx\obj\Debug\linkedlistcompleteEx.pdb

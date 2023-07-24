@@ -1,0 +1,8 @@
+F:\Day -11\Assignment - 14\Assignment - 14\bin\Debug\Assignment - 14.exe.config
+F:\Day -11\Assignment - 14\Assignment - 14\bin\Debug\Assignment - 14.exe
+F:\Day -11\Assignment - 14\Assignment - 14\bin\Debug\Assignment - 14.pdb
+F:\Day -11\Assignment - 14\Assignment - 14\obj\Debug\Assignment - 14.csproj.AssemblyReference.cache
+F:\Day -11\Assignment - 14\Assignment - 14\obj\Debug\Assignment - 14.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\Assignment - 14\Assignment - 14\obj\Debug\Assignment - 14.csproj.CoreCompileInputs.cache
+F:\Day -11\Assignment - 14\Assignment - 14\obj\Debug\Assignment - 14.exe
+F:\Day -11\Assignment - 14\Assignment - 14\obj\Debug\Assignment - 14.pdb

@@ -1,0 +1,8 @@
+F:\Day -11\linearsearch\linearsearch\bin\Debug\linearsearch.exe.config
+F:\Day -11\linearsearch\linearsearch\bin\Debug\linearsearch.exe
+F:\Day -11\linearsearch\linearsearch\bin\Debug\linearsearch.pdb
+F:\Day -11\linearsearch\linearsearch\obj\Debug\linearsearch.csproj.AssemblyReference.cache
+F:\Day -11\linearsearch\linearsearch\obj\Debug\linearsearch.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\linearsearch\linearsearch\obj\Debug\linearsearch.csproj.CoreCompileInputs.cache
+F:\Day -11\linearsearch\linearsearch\obj\Debug\linearsearch.exe
+F:\Day -11\linearsearch\linearsearch\obj\Debug\linearsearch.pdb

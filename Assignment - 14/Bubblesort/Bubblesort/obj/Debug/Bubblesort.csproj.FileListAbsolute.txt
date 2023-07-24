@@ -1,0 +1,8 @@
+F:\Day -11\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+F:\Day -11\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+F:\Day -11\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+F:\Day -11\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.AssemblyReference.cache
+F:\Day -11\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.SuggestedBindingRedirects.cache
+F:\Day -11\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+F:\Day -11\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+F:\Day -11\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
